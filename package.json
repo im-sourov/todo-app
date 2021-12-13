@@ -1,0 +1,14 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "This is a simple To-Do app",
+  "main": "app.js",
+  "scripts": {
+    "compile:scss": "sass --watch scss/main.scss main.css"
+  },
+  "author": "Sourov Biswas",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.45.0"
+  }
+}
